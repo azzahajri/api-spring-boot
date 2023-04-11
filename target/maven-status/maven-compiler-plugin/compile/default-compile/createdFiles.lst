@@ -1,0 +1,5 @@
+com\GestionEmploi\Repositories\EmployeeRepository.class
+com\GestionEmploi\entities\Employee.class
+com\example\demo\GestionEmploiDepartementApplication.class
+com\GestionEmploi\entities\Departement.class
+com\GestionEmploi\Repositories\DepartementRepository.class
